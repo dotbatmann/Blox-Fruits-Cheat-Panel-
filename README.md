@@ -25,5 +25,6 @@ Finished If you have Amy suggestions for me to add to the menu tell me through s
                                        2. you must run it after you enter Bloxfruits
                                        3. You MUST enter your actual roblox password or else it will not work if you belive i will                                             steal your account i cant even view your password a bot enables the cheats for you and if                                            you get an error where it says that has already been uploade well idc
                                        4. you MUST use an account older than three weeks old or it will get banned
-                                       5. if it DOES NOT work tell me 
+                                       5. if it DOES NOT work tell me
+                                       6. The Code Is 773rt 
                                        
